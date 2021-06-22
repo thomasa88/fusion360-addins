@@ -17,7 +17,7 @@ to you.
 
 [ParametricText](https://github.com/thomasa88/ParametricText/issues)
 
-[![](https://raw.githubusercontent.com/thomasa88/ThreadKeeper/master/app_store/store_logo.png) ThreadKeeper](https://github.com/thomasa88/ThreadKeeper/issues)
+[<img src="https://raw.githubusercontent.com/thomasa88/ThreadKeeper/master/app_store/store_logo.png" style="height: 32px;"> ThreadKeeper](https://github.com/thomasa88/ThreadKeeper/issues)
 
 ## Project not listed
 
